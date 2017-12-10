@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 0de8e165b08310348b42a097319d1819
+timeCreated: 1510571412
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Clamping_001
+    100002: Clamping_002
+    100004: Clamping_003
+    100006: Clamping_004
+    100008: Clamping_005
+    100010: Clamping_006
+    100012: Clamping_007
+    100014: Clamping_008
+    100016: kanat_low001
+    100018: LightBig_001
+    100020: //RootNode
+    100022: MetalRope_001
+    100024: MetalRope_002
+    100026: MetalRope_003
+    100028: MetalRope_004
+    100030: MetalRope_005
+    100032: MetalRope_006
+    100034: MetalRope_007
+    100036: MetalRope_008
+    400000: Clamping_001
+    400002: Clamping_002
+    400004: Clamping_003
+    400006: Clamping_004
+    400008: Clamping_005
+    400010: Clamping_006
+    400012: Clamping_007
+    400014: Clamping_008
+    400016: kanat_low001
+    400018: LightBig_001
+    400020: //RootNode
+    400022: MetalRope_001
+    400024: MetalRope_002
+    400026: MetalRope_003
+    400028: MetalRope_004
+    400030: MetalRope_005
+    400032: MetalRope_006
+    400034: MetalRope_007
+    400036: MetalRope_008
+    2300000: Clamping_001
+    2300002: Clamping_002
+    2300004: Clamping_003
+    2300006: Clamping_004
+    2300008: Clamping_005
+    2300010: Clamping_006
+    2300012: Clamping_007
+    2300014: Clamping_008
+    2300016: LightBig_001
+    2300018: MetalRope_001
+    2300020: MetalRope_002
+    2300022: MetalRope_003
+    2300024: MetalRope_004
+    2300026: MetalRope_005
+    2300028: MetalRope_006
+    2300030: MetalRope_007
+    2300032: MetalRope_008
+    3300000: Clamping_001
+    3300002: Clamping_002
+    3300004: Clamping_003
+    3300006: Clamping_004
+    3300008: Clamping_005
+    3300010: Clamping_006
+    3300012: Clamping_007
+    3300014: Clamping_008
+    3300016: LightBig_001
+    3300018: MetalRope_001
+    3300020: MetalRope_002
+    3300022: MetalRope_003
+    3300024: MetalRope_004
+    3300026: MetalRope_005
+    3300028: MetalRope_006
+    3300030: MetalRope_007
+    3300032: MetalRope_008
+    4300000: LightBig_001
+    4300002: Clamping_008
+    4300004: MetalRope_001
+    4300006: MetalRope_002
+    4300008: MetalRope_003
+    4300010: MetalRope_004
+    4300012: MetalRope_005
+    4300014: MetalRope_006
+    4300016: MetalRope_007
+    4300018: MetalRope_008
+    4300020: Clamping_001
+    4300022: Clamping_002
+    4300024: Clamping_003
+    4300026: Clamping_004
+    4300028: Clamping_005
+    4300030: Clamping_006
+    4300032: Clamping_007
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightsBig_001
+    second: {fileID: 2100000, guid: dd6e9b09276443742b36d0275991c11e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

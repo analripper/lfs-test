@@ -1,0 +1,46 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+obj.meta
+Obj/
+bin.meta
+Bin/
+UnityGenerated/
+Library/
+ 
+# ============================================= #
+# Visual Studio / MonoDevelop generated / Rider #
+# ============================================= #
+ExportedObj/
+.idea/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+.vscode/
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Visual studio
+.vs
+*.VC.opendb
+*.sdf
+*.csproj.meta
+/Assets/Frameworks/NetClient/ClientLib.csproj.user.meta
+/Assets/Frameworks/CompiledNetClientModels~
